@@ -5,10 +5,10 @@ I'm Mateo😉, a certified tech developer (studied at Digital House) and a stude
 
 ### How to reach me: 
 <a href="mailto: quotterimateo@gmail.com">
-<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" >
+Mail
 </a>
 <a  href="https://www.instagram.com/matequotteri/"> 
- <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+Instagram
 </a>
 <a href="https://www.linkedin.com/in/mateo-quotteri/">
 Linkedin
