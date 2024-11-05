@@ -4,15 +4,11 @@ I'm Mateo😉, a certified tech developer (studied at Digital House) and a stude
 
 
 ### How to reach me: 
-<a href="mailto: quotterimateo@gmail.com"  style="color: white; text-decoration: none; font-weight: bold;>
-Mail
-</a>
-<a  href="https://www.instagram.com/matequotteri/"> 
-Instagram
-</a>
-<a href="https://www.linkedin.com/in/mateo-quotteri/">
-Linkedin
-</a>  
+<!-- HTML con CSS en línea para cada enlace -->
+<a href="mailto:quotterimateo@gmail.com" style="color: white; text-decoration: none; font-weight: bold;">Mail</a>
+<a href="https://www.instagram.com/matequotteri/" style="color: white; text-decoration: none; font-weight: bold;">Instagram</a>
+<a href="https://www.linkedin.com/in/mateo-quotteri/" style="color: white; text-decoration: none; font-weight: bold;">LinkedIn</a>
+
 
 
 
