@@ -4,7 +4,7 @@ I'm Mateo😉, a certified tech developer (studied at Digital House) and a stude
 
 
 ### How to reach me: 
-<a href="mailto: quotterimateo@gmail.com">
+<a href="mailto: quotterimateo@gmail.com"  style="color: white; text-decoration: none; font-weight: bold;>
 Mail
 </a>
 <a  href="https://www.instagram.com/matequotteri/"> 
