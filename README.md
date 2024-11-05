@@ -11,7 +11,7 @@ I'm Mateo😉, a certified tech developer (studied at Digital House) and a stude
  <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/mateo-quotteri/">
- <img src="https://img.shields.io/badge/billpwchan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+ <img src="https://drive.google.com/file/d/1ZBdDghbETx0t37EeCpRB0X8TPgfS0aWw/view?usp=drive_link?&style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>  
 
 
