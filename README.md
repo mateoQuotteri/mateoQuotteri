@@ -12,7 +12,7 @@ I'm Mateo😉, a certified tech developer (studied at Digital House) and a stude
 
 
 
-- 💼 I am <strong>passionate about startups and finance. </strong>.
+- 💼 I am <strong>passionate about startups and finance. </strong>
 - 🔭 I create social media content discussing <strong>blockchain technology and its various use cases, as I have a podcast called Rebolucion.</strong> 
 - 🌱 I'm proficient in English, and I've passed the Cambridge First Certificate exam.
  🤔 My primary interests are in learning<strong> Java, Spring Boot, and everything related to Object-Oriented Programming.</strong> I'm also very interested in the creation, integration, and application of APIs and REST APIs.
