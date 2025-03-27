@@ -45,7 +45,6 @@ I'm Mateo😉, a certified tech developer (studied at Digital House) and a stude
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-###
+
 
 
